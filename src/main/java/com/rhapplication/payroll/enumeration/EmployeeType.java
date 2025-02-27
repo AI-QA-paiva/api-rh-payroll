@@ -1,4 +1,8 @@
 package com.rhapplication.payroll.enumeration;
 
-public enum EmployeeType git staut{
+public enum EmployeeType {
+
+    TEACHER,
+    MANAGER,
+  
 }
